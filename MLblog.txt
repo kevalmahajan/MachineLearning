@@ -1,0 +1,47 @@
+What is the meaning of AI? Is it a saviour or a foe? This is a question keeps all of humanity curious.
+
+Lets take an example,
+So here's the question- How do to recognize people or different thinks?
+We learn right!
+How do we learn ? Our brain proces the information we see and store it somewhere in it.
+For us its not a big deal.The process is done automatically in humans.
+In the same way we can train computers to recognise or classify things just like we do.
+AI is “The science and engineering of making intelligent machines, especially intelligent computer programs”, as stated by John McCarthy. 
+The main focus of this blog is to bring forth the 'subset of Artificial Intelligence that we know as 'Machine learning' or 'M.L.'. The question that first pops up is that why is 'ML' a subset 'AI'. Machine Learning refers to a part of AI that consists of the more developed and advanced techniques/models that makes the computer itself competent enough to receive data and respond with the suitable operations using AI. Given that ML is a part of AI it is pretty much understood that it makes computers independent of pre-programming. Stanford university describes Machine Learning as ' the science of getting computers to act without being explicitly programmed'. Machine refers to system that can learn from experience. 
+A good example of machine learning implementation is Facebook.
+Facebook’s machine learning algorithms gather behavioral information for every user on the social platform. 
+Based on one’s past behavior, the algorithm predicts interests and recommends articles and notifications on the news feed
+Let’s discuss the different models of ML:
+In Machine learning there are different models that generally fall into the following categories:
+1.Supervised learning
+   -Regression
+   -Classification
+2.Unsupervised learning
+   -Clustering
+   -Association
+3.Reinforcement learning.
+
+Applications:
+Machine Learning is the most rapidly growing technology.
+It is used to solve many real-world complex problems which cannot be solved with traditional approach. Some of the following researched real world applications are:
+
+Emotion analysis
+Sentiment analysis
+Error detection and prevention
+Weather forecasting and prediction
+Stock market analysis and forecasting
+Speech synthesis
+Speech recognition
+Customer segmentation
+Object recognition
+Fraud detection
+Fraud prevention
+Recommendation of products to customer in online shopping
+
+For summing up about machine learning,lets think why do we need machine learning
+Human beings, at this moment, are the most intelligent and advanced species on earth because they can think, evaluate and solve complex problems. 
+Machine learning predicitons are based on data driven analysis,and such large scale data cannot be processed by humans ,thus machine learning makes that process easier.The fact is that we can’t do without human intelligence, but other aspect is that we all need to solve real-world problems with efficiency at a huge scale. That is why the need for machine learning arises.
+
+
+
+
